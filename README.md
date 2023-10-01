@@ -12,3 +12,4 @@ En este archivo podemos documentar todo nuestro codigo de una manera facil y sen
 
 El codigo que hay en el archivo app.js es una serie que funciones para poder realizar las operaciones basicas, todas ellas cumplen con la filosofía Clean Code.
 
+Este es un texto en el video explicativo
